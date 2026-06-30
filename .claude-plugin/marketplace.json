@@ -1,0 +1,18 @@
+{
+  "name": "craftwave-skill-5-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "邮轮舱房选择 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "craftwave-skill-5",
+      "source": "./plugins/craftwave-skill-5",
+      "description": "探索不同邮轮舱房类型及其价格区间，帮助用户根据预算选择最合适的舱房配置。非常适合计划家庭旅行或团体出行的用户。",
+      "version": "0.1.0"
+    }
+  ]
+}
